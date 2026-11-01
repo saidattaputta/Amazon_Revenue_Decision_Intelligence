@@ -58,6 +58,9 @@ The notebook's data inputs and analysis assumptions should be checked when repro
 - The 20% leakage-reduction and 5% AOV-uplift values are scenario assumptions, not observed interventions.
 - The reported relationship does not establish that changing AOV will cause the projected revenue gain.
 
-## Author
 
-Sai Datta Putta · [GitHub](https://github.com/saidattaputta)
+---
+
+**Sai Datta Putta**
+
+[LinkedIn](https://www.linkedin.com/in/sai-datta-putta/)
